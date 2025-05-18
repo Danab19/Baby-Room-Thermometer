@@ -1,10 +1,10 @@
 # 👶🌡️ Embedded System Project: Baby Room Thermometer
 
-**Date:** 21/12/2023  
-**Supervisor:** Dr. Salman Alaraibi  
-**University:** American University of Bahrain (AUBH) 
-**Student:** Dana Barhoom  
-**ID:** A00200  
+- **Date:** 21/12/2023  
+- **Supervisor:** Dr. Salman Alaraibi  
+- **University:** American University of Bahrain (AUBH) 
+- **Student:** Dana Barhoom  
+- **ID:** A00200  
 
 ---
 
