@@ -68,7 +68,7 @@ This script:
 - Displays the result on the OLED.
 - Activates the **LED** and **buzzer** if temperature < 22°C.
 
-> See the `code` folder for full scripts.
+> See the repository for full scripts.
 
 ---
 
@@ -135,9 +135,10 @@ Powered via micro-USB connected to an AC outlet. No batteries are used, ensuring
 
 Baby-Room-Thermometer/
 │
-├── ssd1306.py       # OLED driver
-├── main.py          # Main temperature monitoring script
-└── README.md        # Project documentation
+├── Documentation.docx  # Project documentation
+├── ssd1306.py          # OLED driver
+├── main.py             # Main temperature monitoring script
+└── README.md           # Project README
 
 ```
 
