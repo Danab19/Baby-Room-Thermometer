@@ -60,10 +60,13 @@ The system is powered via USB, connected to an AC wall adapter. The plastic casi
 The software is implemented in **MicroPython** using two scripts:
 
 ### 1. `ssd1306.py`
+
 This driver file supports the **SSD1306 OLED display** via I2C or SPI. It sets up the display parameters, buffer, and communication protocols.
 
 ### 2. `main.py`
+
 This script:
+
 - Reads the temperature using the internal ADC.
 - Displays the result on the OLED.
 - Activates the **LED** and **buzzer** if temperature < 22°C.
