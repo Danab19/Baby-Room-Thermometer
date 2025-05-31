@@ -139,6 +139,7 @@ Powered via micro-USB connected to an AC outlet. No batteries are used, ensuring
 Baby-Room-Thermometer/
 │
 ├── Documentation.docx  # Project documentation
+├── diagram.json        # Wowki circuit structure
 ├── ssd1306.py          # OLED driver
 ├── main.py             # Main temperature monitoring script
 └── README.md           # Project README
